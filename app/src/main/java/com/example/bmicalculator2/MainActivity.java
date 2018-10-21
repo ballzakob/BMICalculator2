@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
                 Toast t =Toast.makeText(MainActivity.this,msg,Toast.LENGTH_LONG);
                 t.show();
-                //Toast.makeText(MainActivity.this,msg,Toast.LENGTH_LONG).show();
+                    //Toast.makeText(MainActivity.this,msg,Toast.LENGTH_LONG).show();
                 //Toast มันจะโปว์แปปเดียว
 
                 // ต่อไปนี้จะทำให้เป็นหน้าต่างแสดงมาเลย
